@@ -1,0 +1,196 @@
+body{
+  background-color: #FDFAF6;
+  margin:0 0 0 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #9A9483;
+  margin-top:0;
+  width: 400px;
+  margin: 10px auto;
+  font-size: 4.40rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+.purClass {
+  text-decoration: underline;
+}
+
+.firsth3 {
+  color: #9A9483;
+  width: 400px;
+  margin: 0 auto 10px auto;
+  font-size: 1.5rem;
+
+}
+
+
+
+.div1 { /*This is a div*/
+  background-color: #E4F9F5;
+  position: relative;
+  text-align: center;
+  height: 100vh;
+
+}
+
+.div2 {
+  position: relative;;
+
+  padding-left: 20px;
+  height: 100vh;
+
+}
+
+.div2_h3 {
+  width: 50%;
+  text-align: center;
+  margin:0 auto;
+  padding-top: 3vh;
+  font-family: 'Indie Flower', cursive;
+  font-size: 10vh;
+  color:#9A9483;
+}
+
+
+.frame {
+  height: 80%;
+  width:80%;
+  margin: auto;
+}
+
+.mewton_img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.Mewton_personality {
+  text-align: center;
+  margin-top:0;
+  font-size: 4.4vh;
+  color:#9A9483;
+}
+
+.div2_1 {
+  width: 35vh;
+  height: 35vh;
+  position: absolute;
+  left: 20%;
+}
+
+.div2_2 {
+  width: 35vh;
+  height: 35vh;
+  position: absolute;
+  right: 20%;
+
+}
+
+.div2_3 {
+  width: 35vh;
+  height: 35vh;
+  position: absolute;
+  left: 20%;
+  bottom: 5vh;
+}
+
+.div2_4 {
+  width: 35vh;
+  height: 35vh;
+  position: absolute;
+  right: 20%;
+  bottom:5vh;
+}
+
+.div3 {
+
+  text-align: center;
+  height: 20vh;
+
+}
+
+.text_div3 {
+  font-size: 2vh;
+  color:#9A9483;
+
+}
+
+.laughingCat {
+  height: 70px;
+  width: auto;
+  position: absolute;
+  left:20vw;
+  top:30vh;
+}
+
+
+.coolCat {
+  height: 70px;
+  width: auto;
+  position: absolute;
+  right:20vw;
+  top:60vh;
+}
+
+.naughtyCat {
+  height: 70px;
+  width: auto;
+  position: relative;
+  top: 5vh;
+  left: 10vw;
+}
+.mountain {
+  height: auto;
+  width: 90vh;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -45vh;
+}
+
+.insta_follow:hover .insta_hover {
+  display: inline;
+}
+
+.insta_follow:hover .insta {
+  display: none;
+}
+
+.insta {
+  height: 40px;
+  width: auto;
+}
+.insta_hover {
+  height: 40px;
+  width: auto;
+  display: none;
+}
+.cloud1 {
+  position: relative;
+  left:140px;
+}
+.cloud2 {
+  position: relative;
+  right:150px;
+  top:200px;
+}
+
+hr {
+  border-top: 5px dotted;
+  color:#D8D2CB;
+  width:10%;
+}
+
+.Footer {
+  margin-top: 5vh;
+  text-align: center;
+  color: Darkgrey;
+  font-size: 1.5vh;
+}
+
+.credit_body {
+  text-align: center;
+}
